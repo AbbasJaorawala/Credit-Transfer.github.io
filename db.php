@@ -6,7 +6,7 @@ $user = "root";
 $pass = "root";
 
 $db_name = "db_credit_management";
-//$db_name = "akash";
+
 
 
 # connect to database
